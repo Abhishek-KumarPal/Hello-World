@@ -1,4 +1,4 @@
 # Hello-World
 My first repository
 
-I love :coffee:
+I love :coffee: and Music
